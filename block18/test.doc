@@ -1,0 +1,36 @@
+// In Unit Test at a very low level, what result we should expect from calling a 
+//specific function or piece of code
+
+// Functional Test what does our 
+//website or app need to do when a user performs some action).
+
+//Unit Test
+//A function called "multiplication" that returns the product of the two input numbers.
+//Expect multiplcation(2, 3) to be a number
+//Expect multiplcatiion(2, 3) to be equal to 6
+//Expect multiplcation("j", 3) to be an error
+
+
+//A function called "concatOdds" takes two arrays of integers as arguments. It should return a single array 
+//that only contains the odd numbers, in ascending order, from both of the arrays.
+
+//Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be an new array of odd numbers
+//Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be [-1, 1, 3, 9, 15]
+// Expect concatOdds([]) to be an error
+
+
+//Functional Test
+
+//Look at three prompts write out answer in pseudocode
+//What should happen if the cart is empty?
+//When the user has an empty card, allow button to add more to cart or similar items shown on empty cart page
+//What needs to be shown to the user at each step of check out?
+//User should see running total with regular price, coupons, taxes, shipping if needed
+// Also payment options
+//What behaviors of this feature does the prompt miss or gloss over?
+//To optimize code we can add security by Forgot Password link and/or Login Reset link
+
+
+
+
+
